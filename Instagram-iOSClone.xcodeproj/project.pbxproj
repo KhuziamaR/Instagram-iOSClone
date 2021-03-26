@@ -19,6 +19,7 @@
 		91D0BB0B2603E312009D7FCC /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91D0BB0A2603E312009D7FCC /* FeedViewController.swift */; };
 		91D0BB1026040367009D7FCC /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91D0BB0F26040367009D7FCC /* CameraViewController.swift */; };
 		91D0BB362604138E009D7FCC /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91D0BB352604138E009D7FCC /* PostCell.swift */; };
+		91F440A8260D429900499853 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F440A7260D429900499853 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		91D0BB0A2603E312009D7FCC /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		91D0BB0F26040367009D7FCC /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		91D0BB352604138E009D7FCC /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		91F440A7260D429900499853 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 				91D0BB0A2603E312009D7FCC /* FeedViewController.swift */,
 				91D0BB0F26040367009D7FCC /* CameraViewController.swift */,
 				91D0BB352604138E009D7FCC /* PostCell.swift */,
+				91F440A7260D429900499853 /* CommentCell.swift */,
 			);
 			path = "Instagram-iOSClone";
 			sourceTree = "<group>";
@@ -341,6 +344,7 @@
 				91D0BB0B2603E312009D7FCC /* FeedViewController.swift in Sources */,
 				9153D3B2260399D400F018D5 /* SceneDelegate.swift in Sources */,
 				91D0BB362604138E009D7FCC /* PostCell.swift in Sources */,
+				91F440A8260D429900499853 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
